@@ -4,7 +4,7 @@ http://mn-nl.mncdn.com/tvr_1/smil:TVR1.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/c6d859baea548cc7e8ca08e876d0322e.png" tvg-name="TVR 2"  group-title="Generale",TVR 2
 http://mn-nl.mncdn.com/tvr_2/smil:TVR2.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/dc9786e53cdb1c46b6d9380dc26bd8c7.png" tvg-name="Pro TV"  group-title="Generale",Pro TV
-http://86.121.88.189:9981/stream/channelid/1260303188
+http://188.26.25.141:8000/play/a009/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/86543fbc62afa899f4828c1ad44e0460.png" tvg-name="Pro TV HD"  group-title="Generale",Pro TV HD
 https://vid.hls.protv.ro/protvhdn/protvhd_high/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" tvg-name="Antena 1"  group-title="Generale",Antena 1
@@ -54,7 +54,7 @@ http://89.38.8.130:39464
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ba30965278076d2b42c75952905026d4.png" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport 1
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=4024
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/956655a06bf420ebefd6a292a0cafd3d.png" tvg-name="Digi Sport 1 HD"  group-title="Sport",Digi Sport 1 HD
-http://188.26.25.141:8000/play/a003/index.m3u8
+http://188.25.69.9:9981/stream/channelid/2144720427
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d1fdea1f6e58979a6f5dd800d7edd1f3.png" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=4025
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/92adaad331dc5c35d364a74c31602112.png" tvg-name="Digi Sport 2 HD"  group-title="Sport",Digi Sport 2 HD
@@ -78,7 +78,7 @@ http://energyiptv.streamtv.to:8080/live/sAMileka/TdnzbjLx8V/16356.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7dcbc955cefb93e082bc3905cad5c8a1.png" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
 http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/145815.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8b09226975f258b7124e2ce9fed72537.png" tvg-name="Eurosport 1 HD"  group-title="Sport",Eurosport 1 HD
-http://86.121.88.189:9981/stream/channelid/129330983
+http://mypanel.tv:8080/live/a4413roiaa/wil170ammc/14991.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f25c655f7d3425dc5569afd90b0042ba.png" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
 http://zerocube.co:8000/live/tbOughZxI4/38sYFIljTR/7871.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/00295a368675482110dbe435465bba33.png" tvg-name="Eurosport 2 HD"  group-title="Sport",Eurosport 2 HD
@@ -146,9 +146,9 @@ http://energyiptv.streamtv.to:8080/live/sAMileka/TdnzbjLx8V/25520.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png" tvg-name="TNT"  group-title="Filme",TNT
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=5643
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/017a544acb713ac3b4c46402c94a07fc.png" tvg-name="TLC"  group-title="Filme",TLC
-http://86.121.88.189:9981/stream/channelid/251982490
+http://mypanel.tv:8080/live/a4413roiaa/wil170ammc/12052.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/da2ee3322bdd3034a556858ec706e70e.png" tvg-name="Film Cafe"  group-title="Filme",Film Cafe
-http://86.121.88.189:9981/stream/channelid/1241188225
+http://mypanel.tv:8080/live/a4413roiaa/wil170ammc/5291.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://restxyz.akta.ro/assets/images/cinemaraton_poster.png" tvg-name="Cinemaraton"  group-title="Filme",Cinemaraton
 https://cmn.digitalcable.ro/free/cm/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://restxyz.akta.ro/assets/images/comedyest_poster.png" tvg-name="Comedy Est"  group-title="Filme",Comedy Est
@@ -165,18 +165,14 @@ https://vid.hls.protv.ro/progoldn/progold_high/index.m3u8?1
 http://ks.kosovatv1.de:1557/live/sead200con/200cn/15166.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" tvg-name="Bollywood Classic"  group-title="Filme",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0, tvg-id="" tvg-logo="http://medikatv.ro/wp-content/uploads/2018/09/cropped-MedikaTV.png" tvg-name="Medika TV"  group-title="Wild",Medika TV
-http://86.121.88.189:9981/stream/channelid/506382900
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/928263e210a870938bb6d12903c568ef.png" tvg-name="Animal Planet HD"  group-title="Wild",Animal Planet HD
 http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/63030.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/64decb20124b5e8611c0d3677c3b9318.png" tvg-name="National Geographic"  group-title="Wild",National Geographic
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=4014
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cc5a6224736580f81db138bd0333079b.png" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
-http://86.121.88.189:9981/stream/channelid/1367480358
+http://mypanel.tv:8080/live/a4413roiaa/wil170ammc/5289.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2bffe8e99bded440c9a326cd6751a23d.png" tvg-name="Discovery Channel"  group-title="Wild",Discovery Channel
 http://89.38.8.130:39423
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/03ca58b51916a6822758489689aaa74d.png" tvg-name="Discovery World"  group-title="Wild",Discovery World
-http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=6087
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
 http://89.38.8.130:39421
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science HD"  group-title="Wild",Discovery Science HD
@@ -244,7 +240,7 @@ http://mn-nl.mncdn.com/tvr_3/smil:TVR3.smil/playlist.m3u8
 #EXTINF:0, tvg-id="raz15" tvg-logo="https://iptv.live/images/logo/channel/smalls/58301a625c19be6871c1f3f992e534c4.png" tvg-name="TVR International"  group-title="Diverse",TVR International
 http://mn-nl.mncdn.com/tvr_i/smil:TVRI.smil/chunklist_w188619173_b1200000.m3u8?__mn_sid=3569091635672452643
 #EXTINF:0, tvg-id="raz47" tvg-logo="https://iptv.live/images/logo/channel/smalls/d277e55bff631b0848374dd0858df0aa.png" tvg-name="PRO TV International"  group-title="Diverse",PRO TV International
-http://d201h06fdwdct7.cloudfront.net/w2_protv/stream/playlist.m3u8
+http://93.82.2.225:8888/udp/239.2.16.100:8208
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/c05054b76b74ce6692c6bfe735c734aa.png" tvg-name="Tele III"  group-title="Diverse",Tele III
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
@@ -319,6 +315,8 @@ http://live.supertv.ro/live/smil:hls.smil/playlist.m3u8
 http://84.43.207.130/planetahd/planetahd.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://i0.wp.com/www.bucovinatv.ro/wp-content/uploads/2017/08/btv-logo-site-e1528828523204.png" tvg-name="Bucovina TV"  group-title="Locale",Bucovina TV
 http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://teleon.tv/images/logos/curier-tv-ro.png" tvg-name="Curier TV"  group-title="Locale",Curier TV
+http://5.2.164.135:1935/live/curiertv/.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://bittv.info/wp-content/uploads/2018/10/logo-nou-2018.png" tvg-name="BIT TV"  group-title="Locale",BIT TV
 http://46.214.146.46:81/tv2/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://tvrmoldova.md/img/tvr-moldova-oriz-mic.png" tvg-name="TVR Moldova"  group-title="Locale",TVR Moldova
@@ -329,7 +327,7 @@ http://mn-nl.mncdn.com/tvr_moldova/smil:TVRCLUJ.smil/chunklist_w720477026_b12000
 http://mn-nl.mncdn.com/tvr_craiova/smil:TVRCRAIOVA.smil/chunklist_w570772822_b1200000.m3u8?__mn_sid=8512025290270500067
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/tvr-iasi.png" tvg-name="TVR Iasi"  group-title="Locale",TVR Iasi
 http://mn-nl.mncdn.com/tvr_iasi/smil:TVRIASI.smil/chunklist_w1257562025_b1200000.m3u8?__mn_sid=14755997706819151085
-#EXTINF:0, tvg-id="" tvg-logo="https://www.bucurestitv.net/wp-content/uploads/2016/02/sigla-bucuresti-tv.gif" tvg-name="Bucuresti TV HD"  group-title="Locale",Bucuresti TV HD
+#EXTINF:0, tvg-id="" tvg-logo="http://teleon.tv/images/logos/bucuresti-tv-mini.jpg" tvg-name="Bucuresti TV HD"  group-title="Locale",Bucuresti TV HD
 https://ppext.arktv.ro/hls/channel3/bitrate5.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/actualitatea-tv.png" tvg-name="Actualitatea TV"  group-title="Locale",Actualitatea TV
 http://webmobile.xdev.ro:81/tv4/playlist.m3u8
@@ -353,8 +351,8 @@ http://46.4.14.12:9999/intermedia1/playlist.m3u8
 https://canalregional.md/tv/live/canalregional.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/tv-sud-est.png" tvg-name="TVSE HD"  group-title="Locale",TVSE HD
 http://89.38.8.130:39419/
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0f14e639bc15bcfc5471b032bb7ad236.png" tvg-name="Evil Angel(18+)"  group-title="Erotice",Evil Angel(18+)
-http://ares.dominium.tv:6923/live/doxdovan/4knogtrfbZ/23716.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e3204ecd04d7045804656a39156eb9df.png" tvg-name="Super One HD(18+)"  group-title="Erotice",Super One HD(18+)
+http://ares.dominium.tv:6923/live/padreregg/GitKTS789anb/23716.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" tvg-name="AST TV(18+)"  group-title="Erotice",AST TV(18+)
 https://www.ast.tv/stream/2/normal.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" tvg-name="AST Shemale(18+)"  group-title="Erotice",AST Shemale(18+)
