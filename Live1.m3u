@@ -38,7 +38,7 @@ http://energyiptv.streamtv.to:8080/live/sAMileka/TdnzbjLx8V/777.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Antena_3_HD.png/revision/latest?cb=20180929185744" tvg-name="Antena 3"  group-title="Stiri",Antena 3
 http://energyiptv.streamtv.to:8080/live/sAMileka/TdnzbjLx8V/795.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Antena_3_HD.png/revision/latest?cb=20180929185744" tvg-name="Antena 3 HD"  group-title="Stiri",Antena 3 HD
-http://109.197.80.5:5843
+http://188.25.69.9:9981/stream/channelid/1924221914
 #EXTINF:0, tvg-id="" tvg-logo="https://keygroup.ro/wp-content/uploads/2016/02/canal33-x150px.png" tvg-name="CANAL 33"  group-title="Stiri",CANAL 33
 https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
 #EXTINF:0, tvg-id="" tvg-logo="http://i0.1616.ro/media/2/2621/33347/18574712/12/profitro-vertical-al.png?width=300" tvg-name="Profit TV"  group-title="Stiri",Profit TV
@@ -114,17 +114,17 @@ http://79.112.169.27:9100/play/a01o
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/625fa0bfdb706073072b1d52884d47c6.png" tvg-name="AXN"  group-title="Filme",AXN
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=4010
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2f1e4c2a90f7b62293b31a99dfb4cf52.png" tvg-name="AXN HD"  group-title="Filme",AXN HD
-http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/90209.m3u8
+http://188.25.69.9:9981/stream/channelid/1627779319
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/62f98086810ed0bf9e3004a9129a2828.png" tvg-name="AXN White"  group-title="Filme",AXN White
 http://zerocube.co:8000/live/tbOughZxI4/38sYFIljTR/7904.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4258c8c8b14e57d8657a43e2358cc0d0.png" tvg-name="AXN Black"  group-title="Filme",AXN Black
-http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/112894.m3u8
+http://188.25.69.9:9981/stream/channelid/1394722994
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/48bd5da2142f35685c4f43ad7ebb49ad.png" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
 http://energyiptv.streamtv.to:8080/live/sAMileka/TdnzbjLx8V/25532.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="Cinemax"  group-title="Filme",Cinemax
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=3982
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ef9a1649e939582e993a2efcfdee5eb1.png" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
-http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/63026.m3u8
+http://188.25.69.9:9981/stream/channelid/1277573209
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1d93833ebdc10c6394d18105e9419915.png" tvg-name="Film Box"  group-title="Filme",Film Box
 http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/210991.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/06dd1192d55ab64074f190469710e8b4.png" tvg-name="Film Box Plus"  group-title="Filme",Film Box Plus
@@ -165,8 +165,8 @@ https://vid.hls.protv.ro/progoldn/progold_high/index.m3u8?1
 http://ks.kosovatv1.de:1557/live/sead200con/200cn/15166.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" tvg-name="Bollywood Classic"  group-title="Filme",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/928263e210a870938bb6d12903c568ef.png" tvg-name="Animal Planet HD"  group-title="Wild",Animal Planet HD
-http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/63030.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/928263e210a870938bb6d12903c568ef.png" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
+http://89.38.8.130:39478
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/64decb20124b5e8611c0d3677c3b9318.png" tvg-name="National Geographic"  group-title="Wild",National Geographic
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=4014
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cc5a6224736580f81db138bd0333079b.png" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
@@ -183,8 +183,6 @@ http://188.26.25.141:8000/play/a02j/index.m3u8
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=6037
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Extra"  group-title="Wild",Discovery Turbo Extra
 http://mypanel.tv:8080/live/a4413roiaa/wil170ammc/14992.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1ef3170b4c10c07981b70ab8e1906294.png" tvg-name="Crime Investigation"  group-title="Wild",Crime Investigation
-http://ks.kosovatv1.de:1557/live/sead200con/200cn/15164.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World"  group-title="Wild",Digi World
 http://energyiptv.streamtv.to:8080/live/sAMileka/TdnzbjLx8V/764.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life"  group-title="Wild",Digi Life
