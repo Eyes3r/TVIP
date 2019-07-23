@@ -8,7 +8,7 @@ http://188.26.25.141:8000/play/a009/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/86543fbc62afa899f4828c1ad44e0460.png" tvg-name="Pro TV HD"  group-title="Generale",Pro TV HD
 https://vid.hls.protv.ro/protvhdn/protvhd_high/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" tvg-name="Antena 1"  group-title="Generale",Antena 1
-http://zerocube.co:8000/live/tbOughZxI4/38sYFIljTR/7857.m3u8
+http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18557.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/91ce716a7d1edb653d11ec132f521554.png" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=4007
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/05396097d1129c03a6b67dae6d0db433.png" tvg-name="Kanal D"  group-title="Generale",Kanal D
@@ -16,9 +16,9 @@ http://89.38.8.130:39418
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0e26bd20b53e9533a8fd15d21a7d893a.png" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
 http://82.137.22.163:9981/stream/channelid/57864005
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/632cd17291a8f4df6434c8de71bb9e49.png" tvg-name="Prima TV"  group-title="Generale",Prima TV
-http://46.166.148.163:8000/live/JEPxKeDiZK/X5vLzdDaW8/1274.m3u8
+http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18478.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b98bf56bcb1f471b0da6c3b0bff6013f.png" tvg-name="National TV"  group-title="Generale",National TV
-http://zerocube.co:8000/live/tbOughZxI4/38sYFIljTR/7885.m3u8
+http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18483.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/6c4b93dc5601fce04fe31e07b583a427.png" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
 http://89.38.8.130:39438
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4afff9e26a15c6b9ec5551c78085a3c.png" tvg-name="B1 Tv"  group-title="Generale",B1 Tv
@@ -34,9 +34,9 @@ https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/68fdb471812398043a5fdd640937b8b6.png" tvg-name="Realitatea Plus"  group-title="Stiri",Realitatea Plus
 https://live.realitatea.net/livertmp/plus/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d7b2cafabdf063b5376b4db93bdaca27.png" tvg-name="Romania TV"  group-title="Stiri",Romania TV
-http://46.166.148.163:8000/live/JEPxKeDiZK/X5vLzdDaW8/1242.m3u8
+http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18464.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Antena_3_HD.png/revision/latest?cb=20180929185744" tvg-name="Antena 3"  group-title="Stiri",Antena 3
-http://46.166.148.163:8000/live/JEPxKeDiZK/X5vLzdDaW8/1251.m3u8
+http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18555.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Antena_3_HD.png/revision/latest?cb=20180929185744" tvg-name="Antena 3 HD"  group-title="Stiri",Antena 3 HD
 http://188.25.69.9:9981/stream/channelid/1924221914
 #EXTINF:0, tvg-id="" tvg-logo="https://keygroup.ro/wp-content/uploads/2016/02/canal33-x150px.png" tvg-name="CANAL 33"  group-title="Stiri",CANAL 33
@@ -54,15 +54,15 @@ http://89.38.8.130:39464
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ba30965278076d2b42c75952905026d4.png" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport 1
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=4024
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/956655a06bf420ebefd6a292a0cafd3d.png" tvg-name="Digi Sport 1 HD"  group-title="Sport",Digi Sport 1 HD
-http://mypanel.tv:8080/live/a4413roiaa/wil170ammc/149962.m3u8
+http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18542.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d1fdea1f6e58979a6f5dd800d7edd1f3.png" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=4025
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/92adaad331dc5c35d364a74c31602112.png" tvg-name="Digi Sport 2 HD"  group-title="Sport",Digi Sport 2 HD
-http://89.163.146.43:8100/live/salah/12345/2030.m3u8
+http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18541.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e32999f285d1e3d46912e552246ce190.png" tvg-name="Digi Sport 3"  group-title="Sport",Digi Sport 3
-http://188.25.69.9:9981/stream/channelid/1719333987
+http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18524.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/0eb2a09013da69c10047c69023907264.png" tvg-name="Digi Sport 3 HD"  group-title="Sport",Digi Sport 3 HD
-http://188.25.69.9:9981/stream/channelid/82540213
+http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18539.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4"  group-title="Sport",Digi Sport 4
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=3997
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4 HD"  group-title="Sport",Digi Sport 4 HD
@@ -78,9 +78,9 @@ http://5.254.66.46:1339/live/AO6vtWfiUw/vckPFSIMLR/38425.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7dcbc955cefb93e082bc3905cad5c8a1.png" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
 http://5.254.66.46:1339/live/AO6vtWfiUw/vckPFSIMLR/9178.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8b09226975f258b7124e2ce9fed72537.png" tvg-name="Eurosport 1 HD"  group-title="Sport",Eurosport 1 HD
-http://mypanel.tv:8080/live/a4413roiaa/wil170ammc/12981.m3u8
+http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18515.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f25c655f7d3425dc5569afd90b0042ba.png" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
-http://zerocube.co:8000/live/tbOughZxI4/38sYFIljTR/7871.m3u8
+http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18512.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/00295a368675482110dbe435465bba33.png" tvg-name="Eurosport 2 HD"  group-title="Sport",Eurosport 2 HD
 http://46.214.157.156:6900/euro2hd
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X"  group-title="Sport",Pro X
@@ -108,19 +108,19 @@ http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18504.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cee71028915464dbf234547f65c22c0e.png" tvg-name="HBO 3 HD"  group-title="Filme",HBO 3 HD
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=5614
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now"  group-title="Filme",Film Now
-http://188.26.25.141:8000/play/a00e/index.m3u8
+http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18543.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7029e67f22d8a43ab8d1b3deb896249.png" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
-http://79.112.169.27:9100/play/a01o
+http://ks.kosovatv1.de:1557/live/sead200con/200cn/15162.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/625fa0bfdb706073072b1d52884d47c6.png" tvg-name="AXN"  group-title="Filme",AXN
-http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=4010
+http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18564.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2f1e4c2a90f7b62293b31a99dfb4cf52.png" tvg-name="AXN HD"  group-title="Filme",AXN HD
-http://188.25.69.9:9981/stream/channelid/1627779319
+http://82.137.22.163:9981/stream/channelid/1771746141
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/62f98086810ed0bf9e3004a9129a2828.png" tvg-name="AXN White"  group-title="Filme",AXN White
-http://zerocube.co:8000/live/tbOughZxI4/38sYFIljTR/7904.m3u8
+http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18563.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4258c8c8b14e57d8657a43e2358cc0d0.png" tvg-name="AXN Black"  group-title="Filme",AXN Black
-http://188.25.69.9:9981/stream/channelid/1394722994
+http://ks.kosovatv1.de:1557/live/sead200con/200cn/15167.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/48bd5da2142f35685c4f43ad7ebb49ad.png" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
-http://188.25.69.9:9981/stream/channelid/1187311964
+http://iptv-line.com:6969/live/martedado1/OXGkAXIB/32361.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="Cinemax"  group-title="Filme",Cinemax
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=3982
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ef9a1649e939582e993a2efcfdee5eb1.png" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
