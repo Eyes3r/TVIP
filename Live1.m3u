@@ -165,8 +165,8 @@ http://ks.kosovatv1.de:1557/live/sead200con/200cn/15166.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="http://medikatv.ro/wp-content/uploads/2018/09/cropped-MedikaTV.png" tvg-name="Medika TV"  group-title="Wild",Medika TV
 http://82.137.22.163:9981/stream/channelid/506382900
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/928263e210a870938bb6d12903c568ef.png" tvg-name="Animal Planet HD"  group-title="Wild",Animal Planet HD
-http://bestiptv.info:8080/live/r2P3VCfI39/JW0WDKyEzr/63030.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/928263e210a870938bb6d12903c568ef.png" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
+http://94.177.136.29:7478/play/a02x
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/64decb20124b5e8611c0d3677c3b9318.png" tvg-name="National Geographic"  group-title="Wild",National Geographic
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=4014
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cc5a6224736580f81db138bd0333079b.png" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
