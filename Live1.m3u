@@ -377,7 +377,7 @@ http://cdn.miip.tv:8880/live/Damian/123456/102.ts
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18435.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/49734efbe60a4e666a1b0803e757e82d.png" tvg-name="Speranta TV"  group-title="Religioase",Speranta TV
 http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bc6006e230a58f649078fd6eb7575732.png" tvg-name="Alfa&Omega"  group-title="Religioase",Alfa&Omega
+#EXTINF:0, tvg-id="" tvg-logo="https://en.kingofsat.net/jpg/alfa-omega.jpg" tvg-name="Alfa&Omega"  group-title="Religioase",Alfa&Omega
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/571003cb3a873f30b3f2c2c1a69987ab.png" tvg-name="Credo TV"  group-title="Religioase",Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
