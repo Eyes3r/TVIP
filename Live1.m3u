@@ -319,6 +319,8 @@ http://84.43.207.130/planetahd/planetahd.m3u8
 http://95.77.16.67:8080/
 #EXTINF:0, tvg-id="" tvg-logo="https://i0.wp.com/www.bucovinatv.ro/wp-content/uploads/2017/08/btv-logo-site-e1528828523204.png" tvg-name="Bucovina TV"  group-title="Locale",Bucovina TV
 http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/ardeal-tv.png" tvg-name="Ardeal TV"  group-title="Locale",Ardeal TV
+http://89.36.196.22:88/live/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-aybEFlHJZS8Z-_HPGc3XGn5Ieps-VmtIihw=s288-c-k-c0xffffffff-no-rj-mo" tvg-name="NCN TV"  group-title="Locale",NCN TV
 https://www.youtube.com/watch?v=_pYkplE-JdY
 #EXTINF:0, tvg-id="" tvg-logo="http://teleon.tv/images/logos/curier-tv-ro.png" tvg-name="Curier TV"  group-title="Locale",Curier TV
