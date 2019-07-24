@@ -315,6 +315,8 @@ http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18446.m3u8
 http://live.supertv.ro/live/smil:hls.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bf8715119f8a56435b0e7189a22e9a10.png" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
 http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://www.tvbuzau.ro/wp-content/uploads/2016/07/tv-buzau-logo.png" tvg-name="Buzau TV"  group-title="Locale",Buzau TV
+http://95.77.16.67:8080/
 #EXTINF:0, tvg-id="" tvg-logo="https://i0.wp.com/www.bucovinatv.ro/wp-content/uploads/2017/08/btv-logo-site-e1528828523204.png" tvg-name="Bucovina TV"  group-title="Locale",Bucovina TV
 http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-aybEFlHJZS8Z-_HPGc3XGn5Ieps-VmtIihw=s288-c-k-c0xffffffff-no-rj-mo" tvg-name="NCN TV"  group-title="Locale",NCN TV
