@@ -325,6 +325,8 @@ http://89.36.196.22:88/live/livestream/playlist.m3u8
 https://www.youtube.com/watch?v=_pYkplE-JdY
 #EXTINF:0, tvg-id="" tvg-logo="http://teleon.tv/images/logos/curier-tv-ro.png" tvg-name="Curier TV"  group-title="Locale",Curier TV
 http://5.2.164.135:1935/live/curiertv/.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://musceltv.ro/site/wp-content/uploads/2016/05/microsigla-frontala.png" tvg-name="Muscel TV"  group-title="Locale",Muscel TV
+mms://musceltvlive.muscel.ro:8080
 #EXTINF:0, tvg-id="" tvg-logo="https://bittv.info/wp-content/uploads/2018/10/logo-nou-2018.png" tvg-name="BIT TV"  group-title="Locale",BIT TV
 http://46.214.146.46:81/tv2/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://tvrmoldova.md/img/tvr-moldova-oriz-mic.png" tvg-name="TVR Moldova"  group-title="Locale",TVR Moldova
