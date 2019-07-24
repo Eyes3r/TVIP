@@ -163,6 +163,8 @@ https://vid.hls.protv.ro/progoldn/progold_high/index.m3u8?1
 http://ks.kosovatv1.de:1557/live/sead200con/200cn/15166.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" tvg-name="Bollywood Classic"  group-title="Filme",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0, tvg-id="" tvg-logo="http://medikatv.ro/wp-content/uploads/2018/09/cropped-MedikaTV.png" tvg-name="Medika TV"  group-title="Wild",Medika TV
+http://82.137.22.163:9981/stream/channelid/506382900
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/928263e210a870938bb6d12903c568ef.png" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
 http://89.38.8.130:39478
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/64decb20124b5e8611c0d3677c3b9318.png" tvg-name="National Geographic"  group-title="Wild",National Geographic
