@@ -125,16 +125,6 @@ http://82.137.22.163:9981/stream/channelid/680042070
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18548.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ef9a1649e939582e993a2efcfdee5eb1.png" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18549.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1d93833ebdc10c6394d18105e9419915.png" tvg-name="Film Box"  group-title="Filme",Film Box
-http://bestiptv.info:8080/live/r2P3VCfI39/JW0WDKyEzr/210995.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/06dd1192d55ab64074f190469710e8b4.png" tvg-name="Film Box Plus"  group-title="Filme",Film Box Plus
-http://bestiptv.info:8080/live/r2P3VCfI39/JW0WDKyEzr/210995.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/46d799bd756a044c4e38bcca61096fe9.png" tvg-name="Film Box Extra HD"  group-title="Filme",Film Box Extra HD
-http://bestiptv.info:8080/live/r2P3VCfI39/JW0WDKyEzr/210992.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/aa1e8832a1b2c29d9950c4899033b08a.png" tvg-name="Film Box Family"  group-title="Filme",Film Box Family
-http://bestiptv.info:8080/live/r2P3VCfI39/JW0WDKyEzr/210994.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b968071e468696313ea4dea83d62b77b.png" tvg-name="Film Box Premium"  group-title="Filme",Film Box Premium
-http://bestiptv.info:8080/live/r2P3VCfI39/JW0WDKyEzr/112952.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/aa62f8527389d3b9531faad76d772b9f.png" tvg-name="Diva TV"  group-title="Filme",Diva TV
 http://82.137.22.163:9981/stream/channelid/1322703813
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/db84fd722b09a6787fd09b7eb55ff6ab.png" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
@@ -177,8 +167,6 @@ http://89.38.8.130:39423
 http://89.38.8.130:39421
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science HD"  group-title="Wild",Discovery Science HD
 http://46.214.157.156:6900/sciencehd
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f0d4673cb84e88f1840cd0453c855067.png" tvg-name="Discovery ShowCase HD"  group-title="Wild",Discovery ShowCase HD
-http://bestiptv.info:8080/live/r2P3VCfI39/JW0WDKyEzr/112928.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="Discovery ID"  group-title="Wild",Discovery ID
 http://188.26.25.141:8000/play/a02j/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5ba787863049093bd4a8f1c82c1b97a0.png" tvg-name="Discovery ID HD"  group-title="Wild",Discovery ID HD
@@ -317,6 +305,8 @@ http://live.supertv.ro/live/smil:hls.smil/playlist.m3u8
 http://84.43.207.130/planetahd/planetahd.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://www.tvbuzau.ro/wp-content/uploads/2016/07/tv-buzau-logo.png" tvg-name="Buzau TV"  group-title="Locale",Buzau TV
 http://95.77.16.67:8080/
+#EXTINF:0, tvg-id="" tvg-logo="https://andreipitigoi.files.wordpress.com/2010/01/sigla-campus-tv.jpg" tvg-name="Campus TV Buzau"  group-title="Locale",Campus TV Buzau
+mmsh://82.208.182.135:8080/
 #EXTINF:0, tvg-id="" tvg-logo="https://i0.wp.com/www.bucovinatv.ro/wp-content/uploads/2017/08/btv-logo-site-e1528828523204.png" tvg-name="Bucovina TV"  group-title="Locale",Bucovina TV
 http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/ardeal-tv.png" tvg-name="Ardeal TV"  group-title="Locale",Ardeal TV
