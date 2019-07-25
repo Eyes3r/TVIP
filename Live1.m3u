@@ -366,9 +366,11 @@ https://canalregional.md/tv/live/canalregional.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/tv-sud-est.png" tvg-name="TVSE HD"  group-title="Locale",TVSE HD
 http://89.38.8.130:39419/
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e3204ecd04d7045804656a39156eb9df.png" tvg-name="Super One HD(18+)"  group-title="Erotice",Super One HD(18+)
-http://188.25.69.9:9981/stream/channelid/1653131211
+http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" tvg-name="AST TV(18+)"  group-title="Erotice",AST TV(18+)
 https://www.ast.tv/stream/2/normal.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ee3a3d059b0289892dd9b6466488c101.png" tvg-name="Exotica(18+)"  group-title="Erotice",Exotica(18+)
+http://live.redtraffic.xyz/interracial.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" tvg-name="AST Shemale(18+)"  group-title="Erotice",AST Shemale(18+)
 https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a5f94ce3c524b30784606815ad330e59.png" tvg-name="Jasmin TV(18+)"  group-title="Erotice",Jasmin TV(18+)
