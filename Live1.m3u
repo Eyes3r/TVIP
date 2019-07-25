@@ -37,7 +37,7 @@ https://live.realitatea.net/livertmp/plus/playlist.m3u8
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18464.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://mywebtv.info/img/tvicons/ant3.png" tvg-name="Antena 3"  group-title="Stiri",Antena 3
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18555.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Antena_3_HD.png/revision/latest?cb=20180929185744" tvg-name="Antena 3 HD"  group-title="Stiri",Antena 3 HD
+#EXTINF:0, tvg-id="" tvg-logo="http://mywebtv.info/img/tvicons/ant3.png" tvg-name="Antena 3 HD"  group-title="Stiri",Antena 3 HD
 http://82.137.22.163:9981/stream/channelid/256649585
 #EXTINF:0, tvg-id="" tvg-logo="https://keygroup.ro/wp-content/uploads/2016/02/canal33-x150px.png" tvg-name="CANAL 33"  group-title="Stiri",CANAL 33
 https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
@@ -231,6 +231,8 @@ http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18554.m3u8
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18500.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1675120f0cda987c759440f2b1a34ff3.png" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
 http://46.214.157.156:6900/happychhd
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/cook-play.png" tvg-name="Cook and Play"  group-title="Diverse",Cook and Play
+http://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://assets.antenaplay.ro/2019/02/08/ASCEI8MhBY2ItX0av7KS.png" tvg-name="Antena Monden"  group-title="Diverse",Antena Monden
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://assets.antenaplay.ro/2019/02/08/fsBW8DJnT3KdTKAcTVxS.png" tvg-name="Antena Comedy"  group-title="Diverse",Antena Comedy
