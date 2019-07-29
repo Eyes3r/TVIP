@@ -407,6 +407,8 @@ http://89.238.227.6:8042/;stream/1
 http://live3.nationalfm.ro:8001/;stream/1
 #EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/digi-fm.png" tvg-name="Digi FM"  group-title="Radio National",Digi FM
 http://edge76.rdsnet.ro:84/digifm/digifm.mp3
+#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/64786.v5.png" tvg-name="Realitatea FM"  group-title="Radio National",Realitatea FM
+http://195.42.138.43/liveaudio/liveaudio.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/profm.png" tvg-name="Pro FM"  group-title="Radio National",Pro FM
 http://edge126.rdsnet.ro:84/profm/profm.mp3
 #EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/3/18743.v8.png" tvg-name="Magic FM"  group-title="Radio National",Magic FM
@@ -415,10 +417,12 @@ http://live.magicfm.ro:9128/magicfm.aacp
 http://89.37.58.103:8000/europafm_mp3_64k
 #EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/favorit-fm.png" tvg-name="Europa FM" group-title="Radio National",Favorit FM
 http://91.250.252.251:8001/
-#EXTINF:0, tvg-id="" tvg-logo="http://imagini3.metalhead.ro/image/1/450/450/9422722/KISS-FM.jpg" tvg-name="Kiss FM" group-title="Radio National",Kiss FM
+#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/2/18742.v8.png" tvg-name="Kiss FM" group-title="Radio National",Kiss FM
 http://80.86.106.143:9128/kissfm.mp3
 #EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/radio-zu.png" tvg-name="Radio ZU" group-title="Radio National",Radio ZU
 http://5.254.113.34:9123/radiozu.mp3
+#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/18776.v5.png" tvg-name="Virgin Radio (Radio 21)" group-title="Radio National",Virgin Radio (Radio 21)
+http://astreaming.virginradio.ro:8000/virgin_aacp_64k
 #EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/radio-guerrilla.png" tvg-name="Radio Guerrila" group-title="Radio National",Radio Guerrilla
 http://live.guerrillaradio.ro:8010/guerrilla.aac
 #EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/one-fm.png" tvg-name="One FM" group-title="Radio National",One FM
@@ -429,8 +433,8 @@ http://142.4.217.133:9933/stream/1/
 http://ice.streams.ovh:1160/;stream.mp3
 #EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/smart-fm.png" tvg-name="Smart FM" group-title="Radio National",Smart FM
 http://live.smartfm.ro:9128/live
-
-
+#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/smart-fm.png" tvg-name="Radio HIT" group-title="Radio Dance",Radio HIT
+http://live.radio-hit.ro:8500/;
 
 
 
