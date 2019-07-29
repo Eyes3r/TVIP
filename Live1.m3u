@@ -477,6 +477,8 @@ http://live.radiodeea.ro:8090/stream/1
 http://142.4.207.251:8092/;
 #EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/4/65074.v4.png" tvg-name="Radio Club Mix" group-title="Radio House",Radio Club Mix
 http://live.radioclubmix.ro:9999/;
+#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/energy-fm-house.png" tvg-name="Energy FM" group-title="Radio House",Energy FM
+http://relay.181.fm:8800/;
 #EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/4/19794.png" tvg-name="Dance Effect Radio" group-title="Radio House",Dance Effect Radio
 http://asculta.danceeffect.ro:3333/;
 #EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/0/65160.v6.png" tvg-name="Radio Top Dance Romania" group-title="Radio House",Radio Top Dance Romania
@@ -507,8 +509,14 @@ http://188.165.162.208:9991/stream
 http://radio.voceastrazii.net:8012/stream/1
 #EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/7/19837.v4.png" tvg-name="Radio Traditional" group-title="Radio Hip-Hop",Radio Traditional
 http://178.32.183.159:7500/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/7/19837.v4.png" tvg-name="Radio Sas Net" group-title="Radio Hip-Hop",Radio 
+#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/65156.v3.png" tvg-name="Radio Sas Net" group-title="Radio Hip-Hop",Radio Sas Net
 http://radio.sasnet.eu:8888/;
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/radio/radio-vocea-strazii.png" tvg-name="Radio Vocea Strazii" group-title="Radio Hip-Hop",Radio Vocea Strazii
+http://radio.voceastrazii.net:8012/;
+#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/3/19023.v3.png" tvg-name="Radio Tequila" group-title="Radio Hip-Hop",Radio Tequila
+http://necenzurat.radiotequila.ro:7000/;
+#EXTINF:0, tvg-id="" tvg-logo="http://www.liveradio.ie/files/images/137007/resized/180x172c/radio_cartier_romania.jpg" tvg-name="Radio Cartier" group-title="Radio Hip-Hop",Radio Cartier
+http://radiocartier.zapto.org:8048/;
 #EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/5/65075.v3.png" tvg-name="Radio 1 Manele" group-title="Radio Manele",Radio 1 Manele
 http://radio1manele.no-ip.org:8000/stream/1
 #EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/1/77061.v3.png" tvg-name="Radio Popular Manele Vechi" group-title="Radio Manele",Radio Popular Manele Vechi
