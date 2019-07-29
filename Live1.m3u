@@ -399,15 +399,39 @@ http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/571003cb3a873f30b3f2c2c1a69987ab.png" tvg-name="Credo TV"  group-title="Religioase",Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/radio-romania-actualitati.png" tvg-name="Radio Romania Actualitati"  group-title="Radio National",Radio Romania Actualitati
+http://89.238.227.6:8002/;stream/1
 #EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/antena-satelor.png" tvg-name="Antena Satelor"  group-title="Radio National",Antena Satelor
 http://89.238.227.6:8042/;stream/1
+#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/national-fm.png" tvg-name="National FM"  group-title="Radio National",National FM
+http://live3.nationalfm.ro:8001/;stream/1
 #EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/digi-fm.png" tvg-name="Digi FM"  group-title="Radio National",Digi FM
 http://edge76.rdsnet.ro:84/digifm/digifm.mp3
+#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/profm.png" tvg-name="Pro FM"  group-title="Radio National",Pro FM
+http://edge126.rdsnet.ro:84/profm/profm.mp3
+#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/3/18743.v8.png" tvg-name="Magic FM"  group-title="Radio National",Magic FM
+http://live.magicfm.ro:9128/magicfm.aacp
 #EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/europa-fm.png" tvg-name="Europa FM"  group-title="Radio National",Europa FM
 http://89.37.58.103:8000/europafm_mp3_64k
 #EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/favorit-fm.png" tvg-name="Europa FM" group-title="Radio National",Favorit FM
 http://91.250.252.251:8001/
 #EXTINF:0, tvg-id="" tvg-logo="http://imagini3.metalhead.ro/image/1/450/450/9422722/KISS-FM.jpg" tvg-name="Kiss FM" group-title="Radio National",Kiss FM
 http://80.86.106.143:9128/kissfm.mp3
+#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/radio-zu.png" tvg-name="Radio ZU" group-title="Radio National",Radio ZU
+http://5.254.113.34:9123/radiozu.mp3
+#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/radio-guerrilla.png" tvg-name="Radio Guerrila" group-title="Radio National",Radio Guerrilla
+http://live.guerrillaradio.ro:8010/guerrilla.aac
 #EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/one-fm.png" tvg-name="One FM" group-title="Radio National",One FM
 http://live.onefm.ro:9128/onefm.aacp
+#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/radio-total.png" tvg-name="Radio Total" group-title="Radio National",Radio Total
+http://142.4.217.133:9933/stream/1/
+#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/radio-baraka.png" tvg-name="Radio Baraka" group-title="Radio National",Radio Baraka
+http://ice.streams.ovh:1160/;stream.mp3
+#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/smart-fm.png" tvg-name="Smart FM" group-title="Radio National",Smart FM
+http://live.smartfm.ro:9128/live
+
+
+
+
+
+
