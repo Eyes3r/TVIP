@@ -331,8 +331,6 @@ http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
 http://89.36.196.22:88/live/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://www.sigina.ro/wp-content/uploads/01_logo.jpg" tvg-name="NCN Cluj Napoca"  group-title="Locale",NCN Cluj Napoca
 http://82.137.22.163:9981/stream/channelid/254975923
-#EXTINF:0, tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-aybEFlHJZS8Z-_HPGc3XGn5Ieps-VmtIihw=s288-c-k-c0xffffffff-no-rj-mo" tvg-name="NCN TV"  group-title="Locale",NCN TV
-https://www.youtube.com/watch?v=_pYkplE-JdY
 #EXTINF:0, tvg-id="" tvg-logo="http://teleon.tv/images/logos/curier-tv-ro.png" tvg-name="Curier TV"  group-title="Locale",Curier TV
 http://5.2.164.135:1935/live/curiertv/.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://musceltv.ro/site/wp-content/uploads/2016/05/microsigla-frontala.png" tvg-name="Muscel TV"  group-title="Locale",Muscel TV
