@@ -399,3 +399,15 @@ http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/571003cb3a873f30b3f2c2c1a69987ab.png" tvg-name="Credo TV"  group-title="Religioase",Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/antena-satelor.png" tvg-name="Antena Satelor"  group-title="Radio National",Antena Satelor
+http://89.238.227.6:8042/;stream/1
+#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/digi-fm.png" tvg-name="Digi FM"  group-title="Radio National",Digi FM
+http://edge76.rdsnet.ro:84/digifm/digifm.mp3
+#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/europa-fm.png" tvg-name="Europa FM"  group-title="Radio National",Europa FM
+http://89.37.58.103:8000/europafm_mp3_64k
+#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/favorit-fm.png" tvg-name="Europa FM" group-title="Radio National",Favorit FM
+http://91.250.252.251:8001/
+#EXTINF:0, tvg-id="" tvg-logo="http://imagini3.metalhead.ro/image/1/450/450/9422722/KISS-FM.jpg" tvg-name="Kiss FM" group-title="Radio National",Kiss FM
+http://80.86.106.143:9128/kissfm.mp3
+#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/one-fm.png" tvg-name="One FM" group-title="Radio National",One FM
+http://live.onefm.ro:9128/onefm.aacp
