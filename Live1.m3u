@@ -198,7 +198,7 @@ http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18509.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment"  group-title="Wild",E! Entertainment
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18517.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7c8e496fe3c8465b4046cc1d768a2133.png" tvg-name="Travel Mix"  group-title="Wild",Travel Mix
-http://77.36.61.147/hls/channel1/adaptive.m3u8
+http://alltvplay.ml/hlsjwt/9143e2749469c9707a5161c46b18e29c8e78060a-2323-0-967-None-1495354224-1564469912--cXGMqqfEmYmwSi9DIbquFxq8Nu6-o0X0BG1kDZDhG2M/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d1bee82147f8df51adfd25ddfbc1fa82.png" tvg-name="Travel Channel"  group-title="Wild",Travel Channel
 http://188.26.25.141:8000/play/a007/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/017a544acb713ac3b4c46402c94a07fc.png" tvg-name="TLC"  group-title="Wild",TLC
@@ -275,8 +275,10 @@ http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=4281
 http://82.117.221.23:9981/stream/channelid/1725500083
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/0f9f2d92c2583ef952556e1f382d0974.png" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
 http://ott-cdn.ucom.am/s58/04.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV HD"  group-title="Muzica",ZU TV HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV"  group-title="Muzica",ZU TV
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=5636
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV HD"  group-title="Muzica",ZU TV HD
+http://alltvplay.ml/hlsjwt/c4f804e6f55d33c64f2f155461bdb4954525c2a9-2951-0-967-None-1495354224-1564469601--nGeBcAbbOMBgPCuMJEBVWsjZ9N5-dHNalbHZ68YJJ4g/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/d/d4/Zulogo.jpg" tvg-name="Radio ZU Live"  group-title="Muzica",Radio ZU Live
 https://e6.myovn.com/s1/cache/radiozu/playlist.m3u8
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://iptv.live/images/logo/channel/smalls/3343605a786b87eaf2450a20872528e9.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
@@ -399,151 +401,3 @@ http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/571003cb3a873f30b3f2c2c1a69987ab.png" tvg-name="Credo TV"  group-title="Religioase",Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/radio-romania-actualitati.png" tvg-name="Radio Romania Actualitati"  group-title="Radio National",Radio Romania Actualitati
-http://89.238.227.6:8002/;stream/1
-#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/antena-satelor.png" tvg-name="Antena Satelor"  group-title="Radio National",Antena Satelor
-http://89.238.227.6:8042/;stream/1
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/19096.v17.png" tvg-name="Bucuresti FM"  group-title="Radio National",Bucuresti FM
-http://89.238.227.6:8032/;
-#EXTINF:0, tvg-id="" tvg-logo="hhttps://cdn.onlineradiobox.com/img/logo/5/19065.v3.png" tvg-name="Sport Total FM"  group-title="Radio National",Sport Total FM
-http://84.247.83.36:8001/;
-#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/national-fm.png" tvg-name="National FM"  group-title="Radio National",National FM
-http://live3.nationalfm.ro:8001/;stream/1
-#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/digi-fm.png" tvg-name="Digi FM"  group-title="Radio National",Digi FM
-http://edge76.rdsnet.ro:84/digifm/digifm.mp3
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/64786.v5.png" tvg-name="Realitatea FM"  group-title="Radio National",Realitatea FM
-http://195.42.138.43/liveaudio/liveaudio.stream/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/profm.png" tvg-name="Pro FM"  group-title="Radio National",Pro FM
-http://edge126.rdsnet.ro:84/profm/profm.mp3
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/3/18743.v8.png" tvg-name="Magic FM"  group-title="Radio National",Magic FM
-http://live.magicfm.ro:9128/magicfm.aacp
-#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/europa-fm.png" tvg-name="Europa FM"  group-title="Radio National",Europa FM
-http://89.37.58.103:8000/europafm_mp3_64k
-#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/favorit-fm.png" tvg-name="Europa FM" group-title="Radio National",Favorit FM
-http://91.250.252.251:8001/
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/2/18742.v8.png" tvg-name="Kiss FM" group-title="Radio National",Kiss FM
-http://80.86.106.143:9128/kissfm.mp3
-#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/radio-zu.png" tvg-name="Radio ZU" group-title="Radio National",Radio ZU
-http://5.254.113.34:9123/radiozu.mp3
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/18776.v5.png" tvg-name="Virgin Radio (Radio 21)" group-title="Radio National",Virgin Radio (Radio 21)
-http://astreaming.virginradio.ro:8000/virgin_aacp_64k
-#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/radio-guerrilla.png" tvg-name="Radio Guerrila" group-title="Radio National",Radio Guerrilla
-http://live.guerrillaradio.ro:8010/guerrilla.aac
-#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/one-fm.png" tvg-name="One FM" group-title="Radio National",One FM
-http://live.onefm.ro:9128/onefm.aacp
-#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/radio-total.png" tvg-name="Radio Total" group-title="Radio National",Radio Total
-http://142.4.217.133:9933/stream/1/
-#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/radio-baraka.png" tvg-name="Radio Baraka" group-title="Radio National",Radio Baraka
-http://ice.streams.ovh:1160/;stream.mp3
-#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/smart-fm.png" tvg-name="Smart FM" group-title="Radio National",Smart FM
-http://live.smartfm.ro:9128/live
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/8/64528.v8.png" tvg-name="Best FM" group-title="Radio National",Best FM
-http://193.238.57.106:1000/;stream/1
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/5/19025.v8.png" tvg-name="Dance FM" group-title="Radio Dance",Dance FM
-http://edge126.rdsnet.ro:84/profm/dancefm.mp3
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/5/19215.png" tvg-name="Radio HIT" group-title="Radio Dance",Radio HIT
-http://live.radio-hit.ro:8500/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/9/64949.v3.png" tvg-name="Radio Music FM" group-title="Radio Dance",Radio Music FM
-http://edge126.rdsnet.ro:84/profm/music-fm.mp3
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/9/75919.v2.png" tvg-name="Sound for You" group-title="Radio Dance",Sound for You
-http://89.39.189.89:8000/;stream.nsv
-#EXTINF:0, tvg-id="" tvg-logo="https://static.radio.de/images/broadcasts/d9/a5/9382/1/c175.png" tvg-name="Radio Capital FM" group-title="Radio Dance",Radio Capital FM
-http://stream.capitalfm.ro:8020/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/3/47693.png" tvg-name="Radio Mega-Hit" group-title="Radio Dance",Radio Mega-Hit
-http://radiomegahit.zapto.org:8080/;stream.nsv
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/3/18933.v1.png" tvg-name="Radio Pro-B" group-title="Radio Dance",Radio Pro-B
-http://89.18.27.150:8888/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/2/19832.v2.png" tvg-name="Party Radio Romania" group-title="Radio Dance",Party Radio Romania
-http://partyradio.zapto.org:9964/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/3/64483.v4.png" tvg-name="Radio Bandit" group-title="Radio Dance",Radio Bandit
-http://live.radiobandit.ro:8000/bandit.mp3
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/4/61484.png" tvg-name="MegaHit" group-title="Radio Dance",Mega-Hit
-http://media.xseu.net/MegaHit
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/2/64812.v4.png" tvg-name="Friss FM" group-title="Radio Dance",Friss FM
-http://89.37.193.62:8000/frissfm
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/2/18902.v2.png" tvg-name="Vibe FM" group-title="Radio Dance",Vibe FM
-http://astreaming.vibefm.ro:8000/vibefm_mp3_64k
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/3/62573.v4.png" tvg-name="Bitter Sweet Music" group-title="Radio Dance",Bitter Sweet Music
-http://5.196.244.141:8600/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/0/20050.png" tvg-name="Radio Doina" group-title="Radio Dance",Radio Doina
-http://89.43.138.116:8000/radiodoina.mp3
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/4/19084.v1.png" tvg-name="Radio Fiesta" group-title="Radio Dance",Radio Fiesta
-http://91.121.78.191:8477/;stream.mp3/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/3/73113.v3.png" tvg-name="24 House Radio" group-title="Radio House",24 House Radio
-http://87.98.130.255:8624/stream
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/0/64970.v2.png" tvg-name="Radio Deea" group-title="Radio House",Radio Deea
-http://live.radiodeea.ro:8090/stream/1
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/3/65123.v2.png" tvg-name="Insomnia FM" group-title="Radio House",Insomnia FM
-http://142.4.207.251:8092/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/4/65074.v4.png" tvg-name="Radio Club Mix" group-title="Radio House",Radio Club Mix
-http://live.radioclubmix.ro:9999/;
-#EXTINF:0, tvg-id="" tvg-logo="http://tvron.net/static/radio/energy-fm-house.png" tvg-name="Energy FM" group-title="Radio House",Energy FM
-http://relay.181.fm:8800/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/4/19794.png" tvg-name="Dance Effect Radio" group-title="Radio House",Dance Effect Radio
-http://asculta.danceeffect.ro:3333/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/0/65160.v6.png" tvg-name="Radio Top Dance Romania" group-title="Radio House",Radio Top Dance Romania
-http://radiotopdance.ddns.net:8010/;stream.nsv
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/8/19268.png" tvg-name="Terra FM" group-title="Radio House",Terra FM
-http://live.terrafm.ro:8010/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/1/65211.v2.png" tvg-name="Radio Fibra Romania" group-title="Radio House",Radio Fibra Romania
-http://188.165.152.44:9000/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/7/64497.v3.png" tvg-name="Radio Petrecaretzul" group-title="Radio Populara",Radio Petrecaretzul
-http://live.radiopetrecaretzu.ro:8383/;audio.mp3
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/5/19835.png" tvg-name="Radio Mix Craiova" group-title="Radio Populara",Radio Mix Craiova
-http://livemp3.radiopopular.ro:7777/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/0/19840.v3.png" tvg-name="Radio Traditional" group-title="Radio Populara",Radio Traditional
-http://radiotraditional.zapto.org:7600/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/8/64518.v10.png" tvg-name="Radio Petrecere" group-title="Radio Populara",Radio Petrecere
-http://51.255.238.200:8000/;stream.nsv
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/4/64974.v3.png" tvg-name="Radio Popular" group-title="Radio Populara",Radio Popular
-http://live.radiopopular.ro:8888/stream
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/9/19759.v1.png" tvg-name="Radio Pro Popular" group-title="Radio Populara",Radio Pro Popular
-http://live.radiopropopular.com:9998/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/0/19260.png" tvg-name="Radio Intens" group-title="Radio Populara",Radio Intens
-http://live.radiointens.ro:8070/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/2/19052.v3.png" tvg-name="Radio Folclor" group-title="Radio Populara",Radio Folclor
-http://167.114.207.226:5000/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/5/68165.v2.png" tvg-name="Radio Dor de Cantec" group-title="Radio Populara",Radio Dor de Cantec
-http://188.165.162.208:9991/stream
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/8/64968.v2.png" tvg-name="Radio Greu de Difuzat" group-title="Radio Hip-Hop",Radio Greu de Difuzat
-http://radio.voceastrazii.net:8012/stream/1
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/7/19837.v4.png" tvg-name="Radio Traditional" group-title="Radio Hip-Hop",Radio Traditional
-http://178.32.183.159:7500/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/65156.v3.png" tvg-name="Radio Sas Net" group-title="Radio Hip-Hop",Radio Sas Net
-http://radio.sasnet.eu:8888/;
-#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/radio/radio-vocea-strazii.png" tvg-name="Radio Vocea Strazii" group-title="Radio Hip-Hop",Radio Vocea Strazii
-http://radio.voceastrazii.net:8012/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/3/19023.v3.png" tvg-name="Radio Tequila" group-title="Radio Hip-Hop",Radio Tequila
-http://necenzurat.radiotequila.ro:7000/;
-#EXTINF:0, tvg-id="" tvg-logo="http://www.liveradio.ie/files/images/137007/resized/180x172c/radio_cartier_romania.jpg" tvg-name="Radio Cartier" group-title="Radio Hip-Hop",Radio Cartier
-http://radiocartier.zapto.org:8048/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/5/65075.v3.png" tvg-name="Radio 1 Manele" group-title="Radio Manele",Radio 1 Manele
-http://radio1manele.no-ip.org:8000/stream/1
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/1/77061.v3.png" tvg-name="Radio Popular Manele Vechi" group-title="Radio Manele",Radio Popular Manele Vechi
-http://manele.radiopopular.ro:8000/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/4/64984.v5.png" tvg-name="Radio Nebunya" group-title="Radio Manele",Radio Nebunya
-http://radionebunya.sytes.net:7575/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/5/19295.png" tvg-name="Radio X Net Manele" group-title="Radio Manele",Radio X Net Manele
-http://asculta.radioxnet.ro:8888/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/9/19099.png" tvg-name="Radio Gangsta" group-title="Radio Manele",Radio Gangsta
-http://live.radiogangsta.ro:8800/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/72546.v3.png" tvg-name="Radio Taraf" group-title="Radio Manele",Radio Taraf
-http://asculta.radiotaraf.ro:7100/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/19126.png" tvg-name="Radio Pro Manele" group-title="Radio Manele",Radio Pro Manele
-http://radiopromanele.zapto.org:8000/;stream.nsv
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/1/19101.png" tvg-name="Radio Amy Manele" group-title="Radio Manele",Radio Amy Manele
-http://asculta.radioamy.ro:8420/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/1/19201.v3.png" tvg-name="Radio Fan" group-title="Radio Fan",Radio Fan
-http://asculta.radio-fan.ro:3750/;stream.nsv
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/1/64791.v5.png" tvg-name="Radio Pirat" group-title="Radio Fan",Radio Pirat
-http://188.165.2.66:8000/;
-#EXTINF:0, tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/1/19311.v1.png" tvg-name="Radio Liberty" group-title="Radio Fan",Radio Liberty
-http://asculta.radioliberty.ro:1989/;
-
-
-
-
-
-
-
-
