@@ -34,7 +34,7 @@ https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/68fdb471812398043a5fdd640937b8b6.png" tvg-name="Realitatea Plus"  group-title="Stiri",Realitatea Plus
 https://live.realitatea.net/livertmp/plus/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d7b2cafabdf063b5376b4db93bdaca27.png" tvg-name="Romania TV"  group-title="Stiri",Romania TV
-http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18464.m3u8
+http://46.20.136.59/live3/_definst_/rtv/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://mywebtv.info/img/tvicons/ant3.png" tvg-name="Antena 3"  group-title="Stiri",Antena 3
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18555.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://mywebtv.info/img/tvicons/ant3.png" tvg-name="Antena 3 HD"  group-title="Stiri",Antena 3 HD
