@@ -85,6 +85,8 @@ http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18512.m3u8
 http://46.214.157.156:6900/euro2hd
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X"  group-title="Sport",Pro X
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18469.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/37f9a93fbfd73628913560729357760b.png" tvg-name="Auto Motor Sport"  group-title="Sport",Auto Motor Sport
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32393839
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
 https://vid.hls.protv.ro/proxhdn/proxhd_high/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="Look Sport"  group-title="Sport",Look Sport
@@ -95,6 +97,8 @@ http://46.214.157.156:6900/looktvhd
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=3993
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ebf6df2a9868dded718dcf1f1a78c74e.png" tvg-name="Look Plus HD"  group-title="Sport",Look Plus HD
 http://188.26.25.141:8000/play/a026/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png" tvg-name="Fight Box HD"  group-title="Sport",Fight Box HD
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32393832
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO"  group-title="Filme",HBO
 http://89.38.8.130:39476
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4551db1bbea4025e88aa1398c1d6509a.png" tvg-name="HBO HD"  group-title="Filme",HBO HD
@@ -106,23 +110,27 @@ http://46.214.157.156:6900/hbo2hd
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/24e9b00fea77fdab872afaa223fd6dec.png" tvg-name="HBO 3"  group-title="Filme",HBO 3
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18504.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cee71028915464dbf234547f65c22c0e.png" tvg-name="HBO 3 HD"  group-title="Filme",HBO 3 HD
-http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=5614
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32333638
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now"  group-title="Filme",Film Now
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18543.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now HD"  group-title="Filme",Film Now HD
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32333835
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7029e67f22d8a43ab8d1b3deb896249.png" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
-http://82.137.22.163:9981/stream/channelid/930296926
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32393335
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/625fa0bfdb706073072b1d52884d47c6.png" tvg-name="AXN"  group-title="Filme",AXN
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18564.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2f1e4c2a90f7b62293b31a99dfb4cf52.png" tvg-name="AXN HD"  group-title="Filme",AXN HD
-http://82.137.22.163:9981/stream/channelid/1771746141
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32333939
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/62f98086810ed0bf9e3004a9129a2828.png" tvg-name="AXN White"  group-title="Filme",AXN White
 http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/38.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4258c8c8b14e57d8657a43e2358cc0d0.png" tvg-name="AXN Black"  group-title="Filme",AXN Black
 http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/39.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/48bd5da2142f35685c4f43ad7ebb49ad.png" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
-http://82.137.22.163:9981/stream/channelid/680042070
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32393039
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="Cinemax"  group-title="Filme",Cinemax
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18548.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0874f230b6ba300544ba4f90689d9a72.png" tvg-name="Cinemax HD"  group-title="Filme",Cinemax HD
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32333636
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ef9a1649e939582e993a2efcfdee5eb1.png" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18549.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/aa62f8527389d3b9531faad76d772b9f.png" tvg-name="Diva TV"  group-title="Filme",Diva TV
@@ -160,19 +168,21 @@ https://vid.hls.protv.ro/pro2n/pro2_high/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1534ad1fe249374953aaef783f9653c.png" tvg-name="PRO Gold"  group-title="Filme",PRO Gold
 https://vid.hls.protv.ro/progoldn/progold_high/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4c0a8bf1a097eb45f5bc038ae71e4652.png" tvg-name="Bollywood TV HD"  group-title="Filme",Bollywood TV HD
-http://82.137.22.163:9981/stream/channelid/180756252
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32393932
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" tvg-name="Bollywood Classic"  group-title="Filme",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0, tvg-id="" tvg-logo="http://medikatv.ro/wp-content/uploads/2018/09/cropped-MedikaTV.png" tvg-name="Medika TV"  group-title="Wild",Medika TV
-http://82.137.22.163:9981/stream/channelid/506382900
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
 http://94.177.136.29:7478/play/a02x
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/928263e210a870938bb6d12903c568ef.png" tvg-name="Animal Planet HD"  group-title="Wild",Animal Planet HD
-http://bestiptv.info:8080/live/r2P3VCfI39/JW0WDKyEzr/63030.m3u8
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32333730
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/64decb20124b5e8611c0d3677c3b9318.png" tvg-name="National Geographic"  group-title="Wild",National Geographic
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=4014
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/64decb20124b5e8611c0d3677c3b9318.png" tvg-name="National Geographic HD"  group-title="Wild",National Geographic HD
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32333733
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cc5a6224736580f81db138bd0333079b.png" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18486.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/09f3e55d09d705c6b987fa46c2989d69.png" tvg-name="Nat Geo Wild HD"  group-title="Wild",Nat Geo Wild HD
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32393031
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2bffe8e99bded440c9a326cd6751a23d.png" tvg-name="Discovery Channel"  group-title="Wild",Discovery Channel
 http://89.38.8.130:39423
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
@@ -189,18 +199,36 @@ http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18537.m3u8
 http://bestiptv.info:8080/live/r2P3VCfI39/JW0WDKyEzr/112928.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World"  group-title="Wild",Digi World
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18538.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World HD"  group-title="Wild",Digi World HD
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32393632
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life"  group-title="Wild",Digi Life
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18540.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life HD"  group-title="Wild",Digi Life HD
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32393631
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/276e39cde3b18b92ce1b22ce681db872.png" tvg-name="Digi Animal World"  group-title="Wild",Digi Animal World
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18544.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/276e39cde3b18b92ce1b22ce681db872.png" tvg-name="Digi Animal World HD"  group-title="Wild",Digi Animal World HD
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32393630
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f9078af9cb17adf31976b43b476476a5.png" tvg-name="DocuBox"  group-title="Wild",DocuBox
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32393831
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0a1d990896e36d9c5611fad3b2c97ea0.png" tvg-name="BBC Earth"  group-title="Wild",BBC Earth
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=33303730
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a663a79a5488f99aed3da06427d74be5.png" tvg-name="CBS Reality"  group-title="Wild",CBS Reality
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32393931
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9290990e051fb007778dcf2101fc24fe.png" tvg-name="DA Vinci Learning"  group-title="Wild",DA Vinci Learning
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32333630
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/921634d9c931bbb2bd1a8517a50a8122.png" tvg-name="Fishing&Hunting"  group-title="Wild",Fishing&Hunting
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18509.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment"  group-title="Wild",E! Entertainment
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18517.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment HD"  group-title="Wild",E! Entertainment HD
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32333931
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7c8e496fe3c8465b4046cc1d768a2133.png" tvg-name="Travel Mix"  group-title="Wild",Travel Mix
-http://alltvplay.ml/hlsjwt/9143e2749469c9707a5161c46b18e29c8e78060a-2323-0-967-None-1495354224-1564469912--cXGMqqfEmYmwSi9DIbquFxq8Nu6-o0X0BG1kDZDhG2M/index.m3u8
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32333233
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d1bee82147f8df51adfd25ddfbc1fa82.png" tvg-name="Travel Channel"  group-title="Wild",Travel Channel
 http://188.26.25.141:8000/play/a007/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ddbbdd621053ea42ff51d433e4bfa0a6.png" tvg-name="Travel Channel HD"  group-title="Wild",Travel Channel HD
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32333937
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/017a544acb713ac3b4c46402c94a07fc.png" tvg-name="TLC"  group-title="Wild",TLC
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18461.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.vptv.ro/wp-content/uploads/2016/02/sigla-vp-tv.gif" tvg-name="VP HD"  group-title="Wild",VP HD
@@ -267,6 +295,8 @@ http://89.38.8.130:39444
 http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18481.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/913c4858c66af34fc5575fcb46f3fecb.png" tvg-name="Nick. Jr"  group-title="Desene",Nick. Jr
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=6720
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3124455a4ad66c5eced0caf07cad0bf5.png" tvg-name="NickToons"  group-title="Desene",NickToons
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32333033
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/31c01e25f4db50d00a47a379d3d64c98.png" tvg-name="JimJam"  group-title="Desene",JimJam
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=5639
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9d3bfd3a17f0779c17df3d7e34a50f3d.png" tvg-name="Fix and Foxi"  group-title="Desene",Fix and Foxi
@@ -277,6 +307,8 @@ http://82.117.221.23:9981/stream/channelid/1725500083
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV"  group-title="Muzica",ZU TV
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=5636
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV HD"  group-title="Muzica",ZU TV HD
+https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32393531
 #EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/d/d4/Zulogo.jpg" tvg-name="Radio ZU Live"  group-title="Muzica",Radio ZU Live
 https://e6.myovn.com/s1/cache/radiozu/playlist.m3u8
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://iptv.live/images/logo/channel/smalls/3343605a786b87eaf2450a20872528e9.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
@@ -285,7 +317,7 @@ http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/88eaac40b27c1b47df9a3f7b7d71e3e3.png" tvg-name="MTV"  group-title="Muzica",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="http://kapang.com/vintagemusic/wp-content/uploads/sites/71/2017/08/vintagemusiclogo.png" tvg-name="Vintage Music"  group-title="Muzica",Vintage Music
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ee7bf5a92065ca7af4bd08d09f95df99.png" tvg-name="Vintage Music"  group-title="Muzica",Vintage Music
 http://streamingserver002.viewtvgroup.com/kapanglivetv-playout-vintagetv/tracks-v2a1/mono.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.phonostar.de/images/auto_created/Ibiza_Global_Radio184x184.png" tvg-name="Ibiza Global  group-title="Muzica",Ibiza Global
 http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
@@ -320,7 +352,7 @@ http://thor-stream.ddns.net:9878/live/5FIXDlU3Jb/NzCOX3SGKv/18446.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.supertv.ro/wp-content/uploads/2019/04/logo-gofm-and-super-tv.png" tvg-name="Super TV HD"  group-title="Muzica",Super TV HD
 http://live.supertv.ro/live/smil:hls.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bf8715119f8a56435b0e7189a22e9a10.png" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
-http://84.43.207.130/planetahd/planetahd.m3u8
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPlanetaHDBG&login=robbin&key=xEX0Ol0
 #EXTINF:0, tvg-id="" tvg-logo="http://www.tvbuzau.ro/wp-content/uploads/2016/07/tv-buzau-logo.png" tvg-name="Buzau TV"  group-title="Locale",Buzau TV
 http://95.77.16.67:8080/
 #EXTINF:0, tvg-id="" tvg-logo="https://andreipitigoi.files.wordpress.com/2010/01/sigla-campus-tv.jpg" tvg-name="Campus TV Buzau"  group-title="Locale",Campus TV Buzau
