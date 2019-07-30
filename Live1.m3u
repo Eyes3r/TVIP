@@ -277,8 +277,6 @@ http://82.117.221.23:9981/stream/channelid/1725500083
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV"  group-title="Muzica",ZU TV
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=5636
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV HD"  group-title="Muzica",ZU TV HD
-http://alltvplay.ml/hlsjwt/c4f804e6f55d33c64f2f155461bdb4954525c2a9-2951-0-967-None-1495354224-1564469601--nGeBcAbbOMBgPCuMJEBVWsjZ9N5-dHNalbHZ68YJJ4g/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/d/d4/Zulogo.jpg" tvg-name="Radio ZU Live"  group-title="Muzica",Radio ZU Live
 https://e6.myovn.com/s1/cache/radiozu/playlist.m3u8
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://iptv.live/images/logo/channel/smalls/3343605a786b87eaf2450a20872528e9.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
