@@ -354,7 +354,7 @@ https://www.alegetv.us/aptv/playlist.m3u8?s=mug&cid=32393330
 #EXTINF:0, tvg-id="" tvg-logo="https://www.supertv.ro/wp-content/uploads/2019/04/logo-gofm-and-super-tv.png" tvg-name="Super TV HD"  group-title="Muzica",Super TV HD
 http://live.supertv.ro/live/smil:hls.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bf8715119f8a56435b0e7189a22e9a10.png" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
-http://iptv.iptivihd.com:8000/live/KADIR/KADIR/2179.m3u8
+http://iptvtool.es:9977/live/Gustabo._Zener/qqy2icQjp4/52702.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://www.tvbuzau.ro/wp-content/uploads/2016/07/tv-buzau-logo.png" tvg-name="Buzau TV"  group-title="Locale",Buzau TV
 http://95.77.16.67:8080/
 #EXTINF:0, tvg-id="" tvg-logo="https://andreipitigoi.files.wordpress.com/2010/01/sigla-campus-tv.jpg" tvg-name="Campus TV Buzau"  group-title="Locale",Campus TV Buzau
@@ -403,7 +403,7 @@ http://46.4.14.12:9999/intermedia1/playlist.m3u8
 https://canalregional.md/tv/live/canalregional.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/tv-sud-est.png" tvg-name="TVSE HD"  group-title="Locale",TVSE HD
 http://89.38.8.130:39419/
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e3204ecd04d7045804656a39156eb9df.png" tvg-name="Super One HD(18+)"  group-title="Erotice",Super One HD(18+)
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e3204ecd04d7045804656a39156eb9df.png; https://iptv.live/images/logo/channel/crops/7c8c72bded93f6a09a15f0ce52cac318.png" tvg-name="Super One HD(18+)"  group-title="Erotice",Super One HD(18+)
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" tvg-name="AST TV(18+)"  group-title="Erotice",AST TV(18+)
 https://www.ast.tv/stream/2/normal.m3u8
@@ -418,7 +418,7 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1d557a00a3b02b2848cf3d5a701c741.png" tvg-name="Blue Hustler TV(18+)"  group-title="Erotice",Blue Hustler TV(18+)
 http://cdn.miip.tv:8880/live/Damian/123456/94.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7a3dd1b1de6a97b599768aa52df85a7d.png" tvg-name="Private TV HD(18+)"  group-title="Erotice",Private TV HD(18+)
-http://cdn.miip.tv:8880/live/Damian/123456/3272.ts
+http://46.214.157.156:6900/private
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cfa3e0729768e459dd2edbea24522af1.png" tvg-name="Redlight HD(18+)" group-title="Erotice",Redlight HD(18+)
 http://95.183.25.118:4022/udp/239.10.2.227:5000
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d9d367f394c5f8f7688b32c1559a7d76.png" tvg-name="Penthouse HD(18+)"  group-title="Erotice",Penthouse HD(18+)
