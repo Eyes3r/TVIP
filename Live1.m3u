@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #EXTM3U
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/30b4930c716885e45d6e7815bde19c6a.png" tvg-name="TVR 1"  group-title="Generale",TVR 1
 http://mn-nl.mncdn.com/tvr_1/smil:TVR1.smil/playlist.m3u8
@@ -433,3 +434,6 @@ http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/571003cb3a873f30b3f2c2c1a69987ab.png" tvg-name="Credo TV"  group-title="Religioase",Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+=======
+Țeapă
+>>>>>>> be196ffd1b952fcd80c760a81c5fbd4d6d475831
